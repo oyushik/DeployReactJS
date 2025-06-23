@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 env:
-  DOCKER_IMAGE: empbackend
+  DOCKER_IMAGE: springbootreactjs
   DOCKER_TAG: client0.4
 
 jobs:
